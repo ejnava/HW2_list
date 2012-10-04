@@ -1,6 +1,5 @@
 List of Computer Programming Languages
 Ruby
-C
 <<<<<<< HEAD
 SNOBOL
 
@@ -8,3 +7,4 @@ SNOBOL
 
 BASIC
 >>>>>>> 970a41c160a454e671a24fdfd1c0e2d4203991fe
+C
